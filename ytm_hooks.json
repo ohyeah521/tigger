@@ -123,6 +123,23 @@
             { "class_name": "gkt", "method_name": "e", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "50350": [
+            { "class_name": "amba", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "afgf", "method_name": "e", "parameter_types": [ "apze" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gmb", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gmb", "method_name": "j", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "gmd", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
