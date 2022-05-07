@@ -90,6 +90,17 @@
             { "class_name": "yna", "method_name": "k", "parameter_types": [ "aijh" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "152907": [
+            { "class_name": "anvf", "method_name": "aj", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "enm", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "ype", "method_name": "j", "parameter_types": [ "ailh" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
