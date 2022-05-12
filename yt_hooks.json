@@ -101,6 +101,17 @@
             { "class_name": "ype", "method_name": "j", "parameter_types": [ "ailh" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "152921": [
+            { "class_name": "aobr", "method_name": "Z", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "enr", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "yso", "method_name": "l", "parameter_types": [ "airc" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
