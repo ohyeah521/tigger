@@ -242,6 +242,23 @@
             { "class_name": "gsi", "method_name": "e", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "50951": [
+            { "class_name": "ampp", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "afub", "method_name": "e", "parameter_types": [ "aqoj" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gsr", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gsr", "method_name": "j", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "gst", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
