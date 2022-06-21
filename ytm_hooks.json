@@ -276,6 +276,23 @@
             { "class_name": "gsx", "method_name": "e", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "51155": [
+            { "class_name": "amqa", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "aftw", "method_name": "e", "parameter_types": [ "aqpf" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gss", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gss", "method_name": "j", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "gsu", "method_name": "e", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
