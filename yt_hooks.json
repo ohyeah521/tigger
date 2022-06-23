@@ -167,6 +167,17 @@
             { "class_name": "zap", "method_name": "j", "parameter_types": [ "ajaq" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "152999": [
+            { "class_name": "aeal", "method_name": "A", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "eqe", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zcd", "method_name": "k", "parameter_types": [ "ajcw" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
