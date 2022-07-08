@@ -189,6 +189,17 @@
             { "class_name": "zdn", "method_name": "k", "parameter_types": [ "ajfe" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153025": [
+            { "class_name": "adoe", "method_name": "u", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "eru", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zfu", "method_name": "m", "parameter_types": [ "ajho" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
