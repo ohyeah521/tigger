@@ -200,6 +200,17 @@
             { "class_name": "zfu", "method_name": "m", "parameter_types": [ "ajho" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153038": [
+            { "class_name": "adpu", "method_name": "E", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "erz", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zhc", "method_name": "l", "parameter_types": [ "ajjj" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
