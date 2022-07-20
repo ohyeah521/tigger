@@ -211,6 +211,17 @@
             { "class_name": "zhc", "method_name": "l", "parameter_types": [ "ajjj" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153051": [
+            { "class_name": "aehp", "method_name": "L", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "esc", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zjb", "method_name": "g", "parameter_types": [ "ajlb" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
