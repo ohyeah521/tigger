@@ -222,6 +222,17 @@
             { "class_name": "zjb", "method_name": "g", "parameter_types": [ "ajlb" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153064": [
+            { "class_name": "aekk", "method_name": "K", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "esm", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zli", "method_name": "i", "parameter_types": [ "ajpa" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
