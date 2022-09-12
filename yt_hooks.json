@@ -296,7 +296,7 @@
             { "class_name": "esc", "method_name": "a", "parameter_types": ["int"], "actions": [
                 { "name": "set_args_value_before_method", "value": "INT:1" }
             ] },
-            { "class_name": "zqz", "method_name": "l", "parameter_types": [ "ajzj" ], "actions": [
+            { "class_name": "zqz", "method_name": "l", "parameter_types": [ "ajyr" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
         ]
