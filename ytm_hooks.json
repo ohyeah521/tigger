@@ -395,6 +395,23 @@
             { "class_name": "gyz", "method_name": "f", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "52450": [
+            { "class_name": "anbh", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "agbf", "method_name": "e", "parameter_types": [ "ardf" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gze", "method_name": "g", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "gze", "method_name": "k", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "gzg", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
