@@ -299,6 +299,17 @@
             { "class_name": "zqz", "method_name": "l", "parameter_types": [ "ajyr" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153157": [
+            { "class_name": "anhg", "method_name": "S", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "esp", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "zso", "method_name": "n", "parameter_types": [ "akax" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
