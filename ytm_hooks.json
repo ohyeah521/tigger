@@ -429,6 +429,23 @@
             { "class_name": "hgl", "method_name": "f", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "53051": [
+            { "class_name": "aogl", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "ahdo", "method_name": "e", "parameter_types": [ "arqd" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hji", "method_name": "g", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hji", "method_name": "k", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "hjk", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
