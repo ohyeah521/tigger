@@ -516,7 +516,7 @@
             ] }
         ],
         "53651": [
-            { "class_name": "alsb", "method_name": "b", "parameter_types": ["int"], "actions": [
+            { "class_name": "aoyl", "method_name": "b", "parameter_types": ["int"], "actions": [
                 { "name": "set_args_value_before_method", "value": "INT:4" }
             ] },
             { "class_name": "ahps", "method_name": "e", "parameter_types": [ "atek" ], "actions": [
