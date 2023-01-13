@@ -398,6 +398,17 @@
             { "class_name": "aatd", "method_name": "k", "parameter_types": [ "alhs" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153537": [
+            { "class_name": "ahfn", "method_name": "q", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "fgk", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "aayq", "method_name": "f", "parameter_types": [ "almz" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
