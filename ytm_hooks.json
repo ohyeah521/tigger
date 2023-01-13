@@ -548,6 +548,23 @@
             { "class_name": "hhr", "method_name": "f", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "53952": [
+            { "class_name": "aotf", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "ahel", "method_name": "e", "parameter_types": [ "atar" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hon", "method_name": "g", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hon", "method_name": "k", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "hop", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
