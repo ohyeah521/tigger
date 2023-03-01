@@ -582,6 +582,23 @@
             { "class_name": "hpp", "method_name": "f", "parameter_types": [], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "54652": [
+            { "class_name": "aqoq", "method_name": "b", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "aipy", "method_name": "e", "parameter_types": [ "avet" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hsb", "method_name": "g", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] },
+            { "class_name": "hsb", "method_name": "k", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": false }
+            ] },
+            { "class_name": "hsd", "method_name": "f", "parameter_types": [], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
