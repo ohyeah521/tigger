@@ -420,6 +420,17 @@
             { "class_name": "abig", "method_name": "k", "parameter_types": [ "alxj" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153628": [
+            { "class_name": "arbc", "method_name": "hO", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "fsp", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "aale", "method_name": "l", "parameter_types": [ "akzz" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
