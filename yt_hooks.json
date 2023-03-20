@@ -431,6 +431,17 @@
             { "class_name": "aale", "method_name": "l", "parameter_types": [ "akzz" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153667": [
+            { "class_name": "arvh", "method_name": "ak", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "fvb", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "abbp", "method_name": "g", "parameter_types": [ "also" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
