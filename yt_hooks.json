@@ -453,6 +453,17 @@
             { "class_name": "abfr", "method_name": "l", "parameter_types": [ "alsu" ], "actions": [
                 { "name": "return_boolean", "value": true }
             ] }
+        ],
+        "153759": [
+            { "class_name": "kzi", "method_name": "aD", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:4" }
+            ] },
+            { "class_name": "fxv", "method_name": "a", "parameter_types": ["int"], "actions": [
+                { "name": "set_args_value_before_method", "value": "INT:1" }
+            ] },
+            { "class_name": "abun", "method_name": "f", "parameter_types": [ "amle" ], "actions": [
+                { "name": "return_boolean", "value": true }
+            ] }
         ]
         
         
