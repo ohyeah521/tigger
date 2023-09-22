@@ -521,9 +521,7 @@
             ] }
         ],
         "154008": [
-            { "class_name": "lpu", "method_name": "cf", "parameter_types": ["int"], "actions": [
-                { "name": "set_args_value_before_method", "value": "INT:4" }
-            ] },
+ 
             { "class_name": "gff", "method_name": "a", "parameter_types": ["int"], "actions": [
                 { "name": "set_args_value_before_method", "value": "INT:1" }
             ] },
